@@ -53,7 +53,7 @@ These 8 columns are:
 ![](img/a8.png)
 8. Set the schema and table where the data will be inserted into
 ![](img/a9.png)
-9. Execute the remaining nodes
+9. Execute the remaining nodes  
 ![](img/afinal.png)
 ## Modeling
 
