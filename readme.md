@@ -57,7 +57,7 @@ These 8 columns are:
 ![](img/afinal.png)
 ## Modeling
 
-1. Using Knime's **File Reader** Node, open and extract the CSV file to allow further manipulation.
+1. Using Knime's **File Reader** Node, open and extract the CSV file to allow further manipulation.  
 ![](img/b1.png)
 ![](img/b2.png)
 2. Connect to the database using **MySQL Connector** Node (this specific node was used because a MariaDB server was used)  
